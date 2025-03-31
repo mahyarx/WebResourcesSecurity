@@ -1,6 +1,6 @@
 # 🧠 Web Resource Security – Lecture Notes (University Edition)
 
-This repository contains detailed, extended lecture notes for the course **Web Resource Security** (Безпека Web ресурсів), taught as part of the 3rd-year Cybersecurity program at Borys Grinchenko Kyiv University. The course is based on SANS SEC542: Web App Penetration Testing and Ethical Hacking.
+This repository contains detailed, extended lecture notes for the course **Web Resource Security** (Безпека Web ресурсів), taught as part of the 3rd-year Cybersecurity program at Borys Grinchenko Kyiv University. The course is based on OWASP.
 
 Each module contains in-depth markdown files designed to provide practical and theoretical knowledge for students studying web application security.
 
